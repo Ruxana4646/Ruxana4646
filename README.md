@@ -50,7 +50,7 @@ I am a **Data Analyst** with a Master's in Economics, passionate about turning d
 - Derived actionable insights for risk management and policy planning.  
 - [View Project](https://github.com/Ruxana4646/MedibeddyEda)
 
-  ### 4. ** Demand Gap Analysis (SQL & Excel)**
+  ### 4. **Demand Gap Analysis (SQL & Excel)**
 
 Analyzed demand and supply data to identify unmet demand across regions and time periods.  
 Performed exploratory data analysis using SQL to uncover key demand patterns and gaps.  
