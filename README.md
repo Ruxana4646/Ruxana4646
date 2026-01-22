@@ -57,7 +57,7 @@ Performed exploratory data analysis using SQL to uncover key demand patterns and
 Built Excel dashboards with pivot tables and charts for clear visualization.  
 Identified high-impact products and peak periods contributing to demand gaps.  
 Delivered actionable insights to support inventory and supply optimization.
-- [View Project](https://github.com/Ruxana4646/MedibeddyEda)
+- [View Project](https://github.com/Ruxana4646/DEMAND_SUPPLY_GAP_ANALYSIS-_OF_UBER)
 
 ---
 
