@@ -40,24 +40,14 @@ I am a **Data Analyst** with a Master's in Economics, passionate about turning d
 - Performed **EDA on bank loan dataset** to identify patterns in loan approval.  
 - Built predictive models to classify loan approval using Python (Logistic Regression, Decision Trees).  
 - Visualized insights to help banks understand customer risk and optimize lending strategies.  
-- [View Project](#) *(Add your repo link)*
+- [View Project]()
 
-### 3. **Sales & Profit Analysis Dashboard**  
-- Analyzed sales and profit data from a retail dataset.  
-- Built interactive **Power BI dashboards** to track KPIs and trends.  
-- Identified profitable product categories and regions.  
-- [View Project](#)
-
-### 4. **Customer Segmentation Using Machine Learning**  
-- Performed **K-Means clustering** to segment customers based on purchasing behavior.  
-- Helped in identifying high-value customers for targeted marketing campaigns.  
-- [View Project](#)
 
 ### 5. **EDA & Visualization on Insurance Dataset**  
 - Conducted **Exploratory Data Analysis** on insurance data.  
 - Visualized relationships between demographic factors, claims, and policy pricing.  
 - Derived actionable insights for risk management and policy planning.  
-- [View Project](# https://github.com/Ruxana4646/MedibeddyEda)
+- [View Project](https://github.com/Ruxana4646/MedibeddyEda)
 
 ---
 
