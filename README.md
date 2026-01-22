@@ -44,10 +44,19 @@ I am a **Data Analyst** with a Master's in Economics, passionate about turning d
 - [View Project](https://github.com/Ruxana4646/bank_data)
 
 
-### 5. **EDA & Visualization on Insurance Dataset**  
+### 3. **EDA & Visualization on Insurance Dataset**  
 - Conducted **Exploratory Data Analysis** on insurance data.  
 - Visualized relationships between demographic factors, claims, and policy pricing.  
 - Derived actionable insights for risk management and policy planning.  
+- [View Project](https://github.com/Ruxana4646/MedibeddyEda)
+
+  ### 4. ** Demand Gap Analysis (SQL & Excel)**
+
+Analyzed demand and supply data to identify unmet demand across regions and time periods.  
+Performed exploratory data analysis using SQL to uncover key demand patterns and gaps.  
+Built Excel dashboards with pivot tables and charts for clear visualization.  
+Identified high-impact products and peak periods contributing to demand gaps.  
+Delivered actionable insights to support inventory and supply optimization.
 - [View Project](https://github.com/Ruxana4646/MedibeddyEda)
 
 ---
