@@ -57,7 +57,7 @@ I am a **Data Analyst** with a Master's in Economics, passionate about turning d
 - Conducted **Exploratory Data Analysis** on insurance data.  
 - Visualized relationships between demographic factors, claims, and policy pricing.  
 - Derived actionable insights for risk management and policy planning.  
-- [View Project](#)
+- [View Project](# https://github.com/Ruxana4646/MedibeddyEda)
 
 ---
 
