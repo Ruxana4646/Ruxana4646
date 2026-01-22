@@ -40,7 +40,7 @@ I am a **Data Analyst** with a Master's in Economics, passionate about turning d
 - Performed **EDA on bank loan dataset** to identify patterns in loan approval.  
 - Built predictive models to classify loan approval using Python (Logistic Regression, Decision Trees).  
 - Visualized insights to help banks understand customer risk and optimize lending strategies.  
-- [View Project]()
+- [View Project](https://github.com/Ruxana4646/bank_data)
 
 
 ### 5. **EDA & Visualization on Insurance Dataset**  
