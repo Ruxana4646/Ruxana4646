@@ -34,7 +34,8 @@ I am a **Data Analyst** with a Master's in Economics, passionate about turning d
 - Built an **ATM simulation system** using Python for transaction handling (withdrawal, deposit, balance inquiry).  
 - Deployed the project as an **interactive web app using Streamlit**.  
 - Focused on user experience, error handling, and secure transaction flow.  
-- [View Project](#) *(Add your repo or live Streamlit link)*
+- [View Project](https://github.com/Ruxana4646/atm_stimulation)
+
 
 ### 2. **Bank Loan Data Analysis**  
 - Performed **EDA on bank loan dataset** to identify patterns in loan approval.  
