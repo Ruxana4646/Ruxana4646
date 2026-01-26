@@ -66,7 +66,7 @@ Delivered actionable insights to support inventory and supply optimization.
 - Deployed the model as an interactive web app using Streamlit.
 
 🔗 *GitHub Repository:*[View Project](https://github.com/Ruxana4646/Insurance_price_prediction_app) 
-🔗 *Live App:*(https://insurancepricepredictionapp-csezjphwwnytzwgmwzx3yd.streamlit.app/)
+🔗 *Live App:*[view live app](https://insurancepricepredictionapp-csezjphwwnytzwgmwzx3yd.streamlit.app/)
 
 ---
 
