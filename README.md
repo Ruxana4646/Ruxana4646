@@ -59,6 +59,15 @@ Identified high-impact products and peak periods contributing to demand gaps.
 Delivered actionable insights to support inventory and supply optimization.
 - [View Project](https://github.com/Ruxana4646/DEMAND_SUPPLY_GAP_ANALYSIS-_OF_UBER)
 
+### 5. **Insurance Price Prediction (XGBoost)**
+- Built an end-to-end machine learning model to predict insurance premiums based on customer risk factors.
+- Performed feature engineering including age , BMI categories, and smoking status indicators.
+- Trained an XGBoost Regressor for accurate premium prediction.
+- Deployed the model as an interactive web app using Streamlit.
+
+🔗 *GitHub Repository:*[View Project](https://github.com/Ruxana4646/Insurance_price_prediction_app) 
+🔗 *Live App:*(https://insurancepricepredictionapp-csezjphwwnytzwgmwzx3yd.streamlit.app/)
+
 ---
 
 ## 📫 Contact Me
