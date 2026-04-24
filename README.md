@@ -74,7 +74,7 @@ Delivered actionable insights to support inventory and supply optimization.
 - Developed SQL-based analytics to generate insights such as top scorers, strike rates, and match performance.
  -Designed an interactive Streamlit dashboard with live match tracking, player statistics, and CRUD operations using a professional dark-themed UI.
 
-🔗 GitHub Repository: [View Project]()
+🔗 GitHub Repository: [View Project](https://github.com/Ruxana4646/Cricbuzz_project)
 
 🔗 Live App: [View Live App]()
 
