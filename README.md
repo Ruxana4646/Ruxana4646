@@ -68,11 +68,21 @@ Delivered actionable insights to support inventory and supply optimization.
 🔗 *GitHub Repository:*[View Project](https://github.com/Ruxana4646/Insurance_price_prediction_app) 
 🔗 *Live App:*[view live app](https://insurancepricepredictionapp-csezjphwwnytzwgmwzx3yd.streamlit.app/)
 
+### 6. **Cricbuzz Analytics Dashboard (ETL Pipeline + Streamlit)**
+- Built an end-to-end data pipeline to extract live cricket data from the Cricbuzz API, transform it, and store it in a MySQL database.
+- Performed data cleaning and transformation including timestamp conversion, handling missing values, and structuring nested JSON data.
+- Developed SQL-based analytics to generate insights such as top scorers, strike rates, and match performance.
+ -Designed an interactive Streamlit dashboard with live match tracking, player statistics, and CRUD operations using a professional dark-themed UI.
+
+🔗 GitHub Repository: [View Project]()
+
+🔗 Live App: [View Live App]()
+
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn URL](linkedin.com/in/ruxana-hisham)  
+- LinkedIn: [LinkedIn](linkedin.com/in/ruxana-hisham)  
 - Email: ruxana4646@gmail.com
 
 ---
